@@ -1,6 +1,6 @@
 # Image Clasifier
 
-A PyTorch Model for classifyng playing cards. Dataset from [Kaggle](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification).
+A PyTorch Model for classifyng playing cards.
 
 This was a quick and fun exercise for me to get accustomed to PyTorch, from understanding the dataset, to what it means to train the model and how to create a training loop.
 
